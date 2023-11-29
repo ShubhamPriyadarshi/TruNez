@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SpriteAtlasPacker": {
+      "commandName": "Project"
+    }
+  },
+	"runtimes": {
+		"win10-x64": {},
+		"osx.10.10-x64": {}
+	}
+}
